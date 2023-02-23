@@ -1,2 +1,5 @@
-
 /* Your CSS Code here. */
+.image {
+  text-align: center;
+  border-radius: 50%;
+}
